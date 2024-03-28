@@ -1,0 +1,22 @@
+*{
+    background-color: black;
+    color:aqua;
+}.login{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+input{
+    margin:10px;
+    height:35px;
+    width:600px;
+    border-top: dotted;
+    border-left: dotted;
+    border-top-color: red;
+    border-left-color: aquamarine;
+}
+#b{
+    width:200px;
+}

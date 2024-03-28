@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(./—Pngtree—business\ concept\ of\ online\ shopping_5345089.png);
+}
+#mobile{
+    display: flex;
+    justify-content:space-evenly;
+}
+#a{
+    text-align: center;
+}
+#head{
+    position: absolute;
+    top:50%;
+    left: 40%;
+}

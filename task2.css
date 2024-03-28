@@ -1,0 +1,49 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+#a{
+ color:red;
+ background-color: black;
+ text-align: center;
+ width:100%;
+ position: absolute;
+ top: 920px;
+}
+.ba{
+    height: 250px;
+}
+#pic1{
+    margin: 0%;
+
+
+}
+#pic2{
+    position: absolute;
+    left: 10%;
+    top: 15%;
+    z-index: -1;
+
+}
+#pic3{
+
+    position: absolute;
+    left:10% ;
+    top: 45%;
+    z-index: -2;
+}
+#pic4{
+    position: absolute;
+    left: 10%;
+    top:75%;
+    z-index: -3;
+
+}
+#pic5{
+    position: absolute;
+    left: 0%;
+    top:10%;
+    z-index: -1;
+
+}
